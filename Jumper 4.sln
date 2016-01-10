@@ -1,0 +1,46 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{45DA370C-DB72-4617-B254-EA658BF01EFE}") = "Jumper 4", "Assembly-CSharp-firstpass.csproj", "{D7498D5B-3128-9B9A-1F37-84944399DAE8}"
+EndProject
+Project("{45DA370C-DB72-4617-B254-EA658BF01EFE}") = "Jumper 4", "Assembly-CSharp.csproj", "{6009FA94-705E-3E0E-D7B6-76A8AED9AF4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7498D5B-3128-9B9A-1F37-84944399DAE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7498D5B-3128-9B9A-1F37-84944399DAE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7498D5B-3128-9B9A-1F37-84944399DAE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7498D5B-3128-9B9A-1F37-84944399DAE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6009FA94-705E-3E0E-D7B6-76A8AED9AF4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6009FA94-705E-3E0E-D7B6-76A8AED9AF4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6009FA94-705E-3E0E-D7B6-76A8AED9AF4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6009FA94-705E-3E0E-D7B6-76A8AED9AF4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+																																			GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.IndentWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+
+EndGlobal
